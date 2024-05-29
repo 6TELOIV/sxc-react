@@ -1,0 +1,27 @@
+{
+  "name": "@6teloiv/sxc-react",
+  "version": "0.0.0",
+  "description": "Various hooks and helpers for using 2sxc in React.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "echo \"Error: no build specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6TELOIV/sxc-react.git"
+  },
+  "keywords": [
+    "2sxc",
+    "react"
+  ],
+  "author": "6teloiv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/6TELOIV/sxc-react/issues"
+  },
+  "homepage": "https://github.com/6TELOIV/sxc-react#readme",
+  "devDependencies": {
+    "tslib": "^2.6.2",
+    "typescript": "^5.4.5"
+  }
+}
